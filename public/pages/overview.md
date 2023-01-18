@@ -2,12 +2,12 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+As a Full Stack Engineer with over 3 years of experience, I have expertise in technologies such as React.js and Next.js, Express, Redis, Docker, and Vite.js. I have experience working on various projects and have strong skills in devops, including Gitlab CI/CD pipeline, Docker and docker-compose, Nginx / Apache configurations, DNS and domain configuration, SSL certificate and security best practices. Additionally, I hold a Master's and Bachelor's degree in Computer Science.
 
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Software Engineer** @ [Pharmaceutical Institute](https://www.phi.ma/) _(Jan 2020 - Mars 2023)_
 
 Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
 - Detailed achievements:
